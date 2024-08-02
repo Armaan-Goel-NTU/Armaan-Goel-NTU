@@ -9,3 +9,9 @@ Here's a list of my academic projects at Nanyang Technological University, Singa
 | Android Remote Control Module / Multidisciplinary Design Project | [SC2079-MDP](https://github.com/Armaan-Goel-NTU/SC2079-MDP) |
 | MyTripDiary | [SC2006-Project-No-Idea](https://github.com/Armaan-Goel-NTU/SC2006-Project-No-Idea) |
 | Stroke Prediction | [SC1015-DS-Project](https://github.com/Armaan-Goel-NTU/SC1015-DS-Project) |
+
+\
+And some lab work
+| Course | Repo |
+| --- | ---- |
+| Artifical Intelligence | [SC3000-AI-Labs](https://github.com/Armaan-Goel-NTU/SC3000-AI-Labs)

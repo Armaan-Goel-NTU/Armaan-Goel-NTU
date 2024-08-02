@@ -14,4 +14,5 @@ Here's a list of my academic projects at Nanyang Technological University, Singa
 And some lab work
 | Course | Repo |
 | --- | ---- |
-| Artifical Intelligence | [SC3000-AI-Labs](https://github.com/Armaan-Goel-NTU/SC3000-AI-Labs)
+| Artifical Intelligence | [SC3000-AI-Labs](https://github.com/Armaan-Goel-NTU/SC3000-AI-Labs) |
+| Algorithm Design & Analysis | [SC2001-ADA-Labs](https://github.com/Armaan-Goel-NTU/SC2001-ADA-Labs)

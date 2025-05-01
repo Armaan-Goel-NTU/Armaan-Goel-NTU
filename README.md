@@ -3,6 +3,8 @@ Here's a list of my academic projects at Nanyang Technological University, Singa
 
 | Project | Repo |
 | ------- | ---- |
+| FYP Research Artifacts | [SC4079-FYP](https://github.com/Armaan-Goel-NTU/SC4079-FYP) |
+| Column Store Experiment | [SC4023-Project](https://github.com/Armaan-Goel-NTU/SC4023-Project) |
 | Remote File Access System | [SC4051-Project](https://github.com/Armaan-Goel-NTU/SC4051-Project) |
 | Query Execution Plan Explainer | [SC3020-CZ4031-Project-2](https://github.com/Armaan-Goel-NTU/SC3020-CZ4031-Project-2) |
 | DBMS Storage and B+ Tree Index Implementation | [SC3020-CZ4031-Project-1](https://github.com/Armaan-Goel-NTU/SC3020-CZ4031-Project-1) |
